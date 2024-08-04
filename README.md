@@ -2,7 +2,7 @@
 
 I am Robby Qiu
 - 🧑‍💻 Currently a software engineer at PayPal working on rewards platform
-- 🧑‍🎓 UPenn MCIT Class of 2023, Philosophy, Politics and Economics graduate at Oxford (matriculated in 2015)
+- 🧑‍🎓 UPenn MCIT (Class of 2023), Philosophy, Politics and Economics graduate at Oxford (matriculated in 2015)
 - 🧗 Avid outdoor adventurer (climb, ski, surf)
 
 #### Connect with me
